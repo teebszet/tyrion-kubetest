@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/teebszet/tyrion-kubetest/issues"
   },
-  "homepage": "https://github.com/teebszet/tyrion-kubetest#readme"
+  "homepage": "https://github.com/teebszet/tyrion-kubetest#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
 }
